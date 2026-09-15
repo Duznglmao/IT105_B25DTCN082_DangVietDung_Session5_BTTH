@@ -16,8 +16,6 @@ Fork Node: Sau khi thanh toán thành công, hệ thống tách thành 2 luồng
 
 Join Node: Đồng bộ 2 nhánh xử lý song song trước khi kết thúc quy trình
 
-![alt text](image.png)
-
 ## PHẦN 2 — NHẬN DIỆN TÁC NHÂN VÀ TRÍCH XUẤT CA SỬ DỤNG
 
 ### 2.1. Các tác nhân
