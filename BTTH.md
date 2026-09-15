@@ -125,7 +125,3 @@ A2.2: Hệ thống hiển thị thông báo "Thanh toán thất bại"
 A2.3: Hệ thống cho phép Khách hàng chọn lại phương thức thanh toán
 
 A2.4: Khách hàng chọn lại phương thức thanh toán, hệ thống quay lại Bước 3 để tiếp tục thực hiện thanh toán
-
-## Phần 4:
-
-![alt text](image-1.png)
